@@ -7,7 +7,9 @@ This repository contains the assigned tasks completed as part of the SAM AI Mach
 This repository includes the following machine learning projects:
 
 - Task 1: Spam SMS Detection
+- https://colab.research.google.com/drive/1Kz0Af9J8lgcstyG1I-mjFA7GM6xp1ENE?usp=sharing
 - Task 2: Credit Card Fraud Detection
+- https://colab.research.google.com/drive/1dmitHj3YV-JXDVIZk3xRfKX1fVMGzolL?usp=sharing
 - Task 3: To be updated
 
 ## 📊 Datasets
