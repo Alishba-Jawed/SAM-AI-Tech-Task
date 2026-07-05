@@ -31,7 +31,6 @@ The datasets used in these projects were obtained from **Kaggle** and other publ
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib
 - Machine Learning
 
 ---
