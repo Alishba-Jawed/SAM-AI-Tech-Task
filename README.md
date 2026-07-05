@@ -1,20 +1,28 @@
-# SAM AI Tech Task Submission
+# SAM AI Tech – Machine Learning Internship Tasks
 
-This repository contains the assigned tasks completed as part of the SAM AI Machine Learning Internship.
+This repository contains the machine learning tasks completed as part of the **SAM AI Machine Learning Internship**. The projects demonstrate the application of supervised machine learning techniques, data preprocessing, feature engineering, model training, and performance evaluation on real-world datasets.
 
-## 📁 Project Overview
+---
 
-This repository includes the following machine learning projects:
+## 📁 Repository Contents
 
-- Task 1: Spam SMS Detection
-- https://colab.research.google.com/drive/1Kz0Af9J8lgcstyG1I-mjFA7GM6xp1ENE?usp=sharing
-- Task 2: Credit Card Fraud Detection
-- https://colab.research.google.com/drive/1dmitHj3YV-JXDVIZk3xRfKX1fVMGzolL?usp=sharing
-- Task 3: To be updated
+- **Task 1:** Spam SMS Detection
+- **Task 2:** Credit Card Fraud Detection
+- **Task 3:** Movie Genre Classification
+
+---
+
+## 🎯 Project Objectives
+
+The objective of these tasks is to develop machine learning models capable of solving real-world classification problems by applying appropriate preprocessing techniques, feature extraction methods, model training, and evaluation metrics.
+
+---
 
 ## 📊 Datasets
 
-All datasets used in these tasks were obtained from Kaggle and publicly available sources.
+The datasets used in these projects were obtained from **Kaggle** and other publicly available sources for educational and learning purposes.
+
+---
 
 ## 💻 Tools & Technologies
 
@@ -23,22 +31,58 @@ All datasets used in these tasks were obtained from Kaggle and publicly availabl
 - Pandas
 - NumPy
 - Scikit-learn
-- Machine Learning techniques
+- Matplotlib
+- Machine Learning
 
-## ⚙️ Project Description
+---
 
-Each task focuses on building a machine learning model to solve real-world classification problems:
+## ⚙️ Project Descriptions
 
-- Spam SMS Detection: Classifies messages as spam or not spam
-- Credit Card Fraud Detection: Identifies fraudulent transactions using machine learning models
-- Task 3: Will be added later
+### 📌 Task 1: Spam SMS Detection
+- Built a machine learning model to classify SMS messages as **Spam** or **Ham**.
+
+### 📌 Task 2: Credit Card Fraud Detection
+- Developed a classification model to detect fraudulent credit card transactions.
+
+### 📌 Task 3: Movie Genre Classification
+- Developed a text classification model to predict movie genres from plot descriptions.
+
+---
+
+## 📈 Machine Learning Workflow
+
+1. Data Collection
+2. Data Preprocessing
+3. Feature Engineering
+4. Train-Test Split
+5. Model Training
+6. Model Evaluation
+7. Performance Comparison
+
+---
+
+## 📂 Repository Structure
+
+```
+SAM-AI-Tech-Tasks/
+│── README.md
+│── Spam_SMS_Detection.ipynb
+│── Credit_Card_Fraud_Detection.ipynb
+│── Movie_Genre_Classification.ipynb
+```
+
+---
 
 ## 🚀 Status
 
-- Task 1: Completed
-- Task 2: Completed
-- Task 3: In progress
+- ✅ Task 1: Completed
+- ✅ Task 2: Completed
+- ✅ Task 3: Completed
 
-## 📌 Note
+---
 
-This repository will be updated as more tasks are completed.
+## 👩‍💻 Author
+
+**Alishba Jawed**
+
+Machine Learning Internship Submission – SAM AI Tech
